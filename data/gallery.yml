@@ -1,0 +1,5 @@
+enable : true
+gallery:
+  - image : "images/gallery/kanahei-01.png"
+  - image : "images/gallery/kanahei-02.jpeg"
+  - image : "images/gallery/kanahei-03.jpeg"
