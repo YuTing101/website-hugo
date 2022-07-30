@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://yuting.github.io"
+baseURL = "https://YuTing101.github.io"
 languageCode = "en-us"
 title = "Tiffany - Blog"
 theme = "liva-hugo"
